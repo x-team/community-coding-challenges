@@ -74,6 +74,6 @@ We thank everybody that help this project reach better places of our community:
 
 ## 📝 License
 
-This project compliances can be found under the [LICENSE](LICENSE.md) for any further details.
+This project compliances can be found under the [LICENSE](LICENSE) for any further details.
 
 [⬆ To the top](#community-coding-challenges)<br>
