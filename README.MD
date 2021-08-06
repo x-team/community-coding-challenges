@@ -29,19 +29,51 @@ We thank everybody that help this project reach better places of our community:
 
 <table>
   <tr>
+    <!-- Collaborator -->
     <td align="center">
       <a href="https://github.com/arthur404dev">
         <img src="https://github.com/arthur404dev.png" width="100px;" alt="Arthur404dev github avatar"/><br>
         <sub>
-          <b>Arthur Andrade</b>
+          <b>Arthur</b>
         </sub>
       </a>
     </td>
+    <!-- . -->
+    <!-- Collaborator -->
+    <td align="center">
+      <a href="https://github.com/d-leme">
+        <img src="https://github.com/d-leme.png" width="100px;" alt="d-leme github avatar"/><br>
+        <sub>
+          <b>Diego</b>
+        </sub>
+      </a>
+    </td>
+    <!-- . -->
+    <!-- Collaborator -->
+    <td align="center">
+      <a href="https://github.com/BrenoGO">
+        <img src="https://github.com/BrenoGO.png" width="100px;" alt="BrenoGO github avatar"/><br>
+        <sub>
+          <b>Breno</b>
+        </sub>
+      </a>
+    </td>
+    <!-- . -->
+    <!-- Collaborator -->
+    <td align="center">
+      <a href="https://github.com/toreti">
+        <img src="https://github.com/toreti.png" width="100px;" alt="toreti github avatar"/><br>
+        <sub>
+          <b>Felipe</b>
+        </sub>
+      </a>
+    </td>
+    <!-- . -->
   </tr>
 </table>
 
 ## 📝 License
 
-This project compliances can be found under the [LICENSE](LICENSE.md) for any further details.
+This project compliances can be found under the [LICENSE](LICENSE) for any further details.
 
 [⬆ To the top](#community-coding-challenges)<br>
