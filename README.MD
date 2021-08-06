@@ -1,6 +1,6 @@
 # Community Coding Challenge Handbook
 
-> This repository focuses on help x-teamers and community members to thrive through coding challenges offering solutions in as many languages you can think of.
+> This repository focuses on helping X-Teamers and community members to thrive through coding challenges offering solutions in as many languages you can think of.
 >
 
 ## 🚀 Collaborating to the handbook
