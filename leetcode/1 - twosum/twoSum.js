@@ -1,9 +1,4 @@
-function solution(nums, target) {
-  const pairs = {};
-  for(let i = 0; i < nums.length; i++) {
-    if (typeof pairs[target - nums[i]] !== 'undefined') {
-      return [pairs[target - nums[i]], i];
-    }
-    pairs[nums[i]] = i;
-  }
-}
+const solution = (nums, target) => nums.reduce(
+  (pairs, num, index) => nums.includes(target - num) ? [nums.indexOf(target - num), index] : pairs,
+  []
+);
