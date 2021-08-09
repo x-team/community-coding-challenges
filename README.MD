@@ -5,23 +5,25 @@
 
 ## 🚀 Collaborating to the handbook
 
-1. You need to first clone the repository locally:
+1. You need to fork this repo
+
+2. Then you need to clone the repository locally:
 
 - Using Https:
 ```
-git clone https://github.com/x-team/community-coding-challenges.git
+git clone https://github.com/{your-github-username}/community-coding-challenges.git
 ```
 - Using SSH:
 ```
-git clone git@github.com:x-team/community-coding-challenges.git
+git clone git@github.com:{your-github-username}/community-coding-challenges.git
 ```
-2. Then you choose the challenge you want to expand and create a new branch using the convention: `{platform}-{challengename}/{language}`
+3. Then you choose the challenge you want to expand and create a new branch using the convention: `{platform}-{challengename}/{language}`
 Example:
 ```
 git checkout -b leetcode-twosum/go
 ```
-3. Commit your changes using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-4. Create a Pull Request and wait for reviews. If you need help, refer to github documentation on [creating new pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+4. Commit your changes using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+5. Create a Pull Request and wait for reviews. If you need help, refer to github documentation on [creating new pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## 🤝 Collaborators
 
