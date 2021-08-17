@@ -1,4 +1,4 @@
-package lectures.part4Implicits
+package challengers
 
 object TwoSum extends App {
 
