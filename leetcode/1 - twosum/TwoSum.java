@@ -17,7 +17,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSumSolution {
+public class TwoSum {
 
     public static void main(String[] args) {
         int[] inputArray = new int[]{2,7,11,15};
