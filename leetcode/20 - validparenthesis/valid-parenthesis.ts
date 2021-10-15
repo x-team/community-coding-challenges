@@ -1,5 +1,5 @@
 const isValid = (string: string): boolean => {
-  let stack: string = "";
+  let stack: string[] = [];
 
   const closersMap = {
     ")": "(",
@@ -8,21 +8,18 @@ const isValid = (string: string): boolean => {
   };
 
   while (string) {
-    const char: any = string.charAt(0);
+    const char = string.charAt(0);
 
-    if (
-      closersMap[char] &&
-      stack.charAt(stack.length - 1) === closersMap[char]
-    ) {
+    if (closersMap[char] && stack[stack.length - 1] === closersMap[char]) {
       stack = stack.slice(0, -1);
     } else {
-      stack += char;
+      stack.push(char);
     }
 
     string = string.substring(1);
   }
 
-  if (stack) {
+  if (stack.length) {
     return false;
   }
 
