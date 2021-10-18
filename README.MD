@@ -71,6 +71,16 @@ We thank everybody that help this project reach better places of our community:
       </a>
     </td>
     <!-- . -->
+    <!-- Collaborator -->
+    <td align="center">
+      <a href="https://github.com/GustavoStingelin">
+        <img src="https://github.com/GustavoStingelin.png" width="100px;" alt="GustavoStingelin github avatar"/><br>
+        <sub>
+          <b>Gustavo</b>
+        </sub>
+      </a>
+    </td>
+    <!-- . -->
   </tr>
 </table>
 
