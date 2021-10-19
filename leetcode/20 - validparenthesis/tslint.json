@@ -1,0 +1,14 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {},
+    "rulesDirectory": [],
+    "compilerOptions": {
+        "module": "es6",
+        "lib": [ "es2017", "dom" ],
+        "target": "es5"
+     }
+}
