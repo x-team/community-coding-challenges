@@ -11,10 +11,7 @@ class ValidParenthesis:
             
         if(character == ')' or character == '}' or character == ']' ):
             if (len(self.stack) == 0 or self.stack[len(self.stack) - 1] != self.symbol[character]):
-                # print(self.symbol[character])
-                return False;
-          
-
+                return False
             self.stack.pop()
 
     return len(self.stack) == 0
